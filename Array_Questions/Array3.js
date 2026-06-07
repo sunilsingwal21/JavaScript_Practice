@@ -16,3 +16,5 @@ console.log(sum)
 // Alternate Method to Do this
 let totalSum = marks.reduce((sum, marks)=> sum+marks,0)
 console.log(totalSum)
+
+// reduce - reduce() condenses the entire array into a single value (like addition or substraction)
